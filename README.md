@@ -2,7 +2,7 @@
 Welcome to QWorld's Silver!
 
 
-QSilver is QWorld's intermediate level workshop series on quantum computing and programming focusing on complex numbers, QFT and Shor's Algorithm 
+Silver is QWorld's intermediate level tutorial on quantum computing and programming focusing on complex numbers, QFT and Shor's Algorithm 
 
 ## Credits
 
