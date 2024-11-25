@@ -1,0 +1,4 @@
+!wget https://raw.githubusercontent.com/sbbzplt/QWorld-Bronze/refs/heads/master/qworld/include/drawing.py
+!wget https://raw.githubusercontent.com/sbbzplt/QWorld-Bronze/refs/heads/master/qworld/include/grover.py
+!wget https://raw.githubusercontent.com/sbbzplt/QWorld-Bronze/refs/heads/master/qworld/include/quantum_state.py
+!wget https://raw.githubusercontent.com/sbbzplt/QWorld-Bronze/refs/heads/master/quantum-with-qiskit/quantum.py
